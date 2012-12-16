@@ -1,6 +1,18 @@
 [
     {
-        "name": "Homepage of 1Devs company - 2008",
+        "name": "[iOS, Android] Mashhad Subway - 2011",
+        "picture": [
+            {
+                "big": "images/projectspic/03/home-big.jpg",
+                "small": "images/projectspic/03/home-small.jpg",
+                "desc": "Home Page of application show the nearest time of favorite station"
+            }
+        ],
+        "description": "i developed multi-platofrm iOS and Android app, called metro mashhad, this app helps people who use subway system to catch the train at the right time. published at iTunes app store and android bazaar (not official android market for iranian's)",
+        "href": "#"
+    },
+    {
+        "name": "[website] 1Devs company - 2008",
         "picture": [
             {
                 "big": "images/projectspic/01/home-big.jpg",
@@ -20,5 +32,22 @@
         ],
         "description": "1Devs is a web developer company placed at Mashhad, Iran<br /> in this project my role was a designer,project needs some social and web app design combined together, so, i decided to make a dashboard with some extera features. ",
         "href": "http://1devs.com"
+    },
+    {
+        "name": "[website] Paradise Rug - 2008",
+        "picture": [
+            {
+                "big": "images/projectspic/02/home-big.jpg",
+                "small": "images/projectspic/02/home-small.jpg",
+                "desc": "Home Page"
+            },
+            {
+                "big": "images/projectspic/02/gallery-big.jpg",
+                "small": "images/projectspic/02/gallery-small.jpg",
+                "desc": "Gallery Page"
+            }
+        ],
+        "description": " <a href=\"http://paradiserug.com/\">paradiserug.com</a> is a company that sells rug's across different destinations such as Switzerland , Italy , Germany and Virginia in USA. my role in this project was a wordpress developer, i made a completly new fell of wordpress, from the backend, administrator, can easily add item and item's attribute.",
+        "href": "http://paradiserug.com/"
     }
 ]
