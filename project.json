@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Homepage of 1Devs company - 2008",
+        "picture": [
+            {
+                "big": "images/projectspic/01/home-big.jpg",
+                "small": "images/projectspic/01/home-small.jpg",
+                "desc": "Home Page"
+            },
+            {
+                "big": "images/projectspic/01/register-big.jpg",
+                "small": "images/projectspic/01/register-small.jpg",
+                "desc": "Registration Form"
+            },
+            {
+                "big": "images/projectspic/01/logedin-big.jpg",
+                "small": "images/projectspic/01/logedin-small.jpg",
+                "desc": "when the user loged in"
+            }
+        ],
+        "description": "1Devs is a web developer company placed at Mashhad, Iran<br /> in this project my role was a designer,project needs some social and web app design combined together, so, i decided to make a dashboard with some extera features. ",
+        "href": "http://1devs.com"
+    }
+]
