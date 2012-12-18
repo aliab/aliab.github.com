@@ -6,6 +6,18 @@
         "href": "#"
     },
     {
+        "name": "[iOS, Android] ziarat ashura - 2011",
+        "picture": [],
+        "description": "this application provide easy access to text and audio of ziarat e ashura, with smooth scroll and easy ui design. i made this application on top of ios and android platform, with Phonegap framework and ExtJS sencha Touch. after a year, base on analytic's report, this app installed on more than +60000 android and ios devices. here is a link to <a href=\"http://cafebazaar.ir/app/com.onemobs.ziarateashura/\">cafebazzar</a>.",
+        "href": "#"
+    },
+    {
+        "name": "[iOS, Android] ahd doa - 2011",
+        "picture": [],
+        "description": "this application provide easy access to text and audio of ahd doa, with smooth scroll and easy ui design. i made this application on top of ios and android platform, with Phonegap framework and ExtJS sencha Touch. after a year, base on analytic's report, this app installed on more than +15000 android and ios devices. here is a link to <a href=\"http://cafebazaar.ir/app/com.onemobs.doaahd/?l=fa\">cafebazzar</a>.",
+        "href": "#"
+    },
+    {
         "name": "[iOS, Android] Mashhad Subway - 2011",
         "picture": [
             {
