@@ -1,6 +1,18 @@
 [
     {
-        "name": "[website] Saees Kahrobaee official webpage - 2012",
+        "name": "[website] Persian Google Chrome Frame - 2013",
+        "picture": [],
+        "description": "Google Chrome Frame, is one of the best known Plug-in's for Internet Explorer that enable cutting edge features on it. i made persian web page to introduce and deliver download link of this awesome plug-in for persian's all around the planet.",
+        "href": "http://chromeframe.hp.af.cm/"
+    },
+    {
+        "name": "[website] Lynda Subtitle Generator - 2013",
+        "picture": [],
+        "description": "Lynda.com is one of the Best Screen Cast maker of the world, so, Hashem Qolami provice service for making package of this good screen Cast's subtitle. i was at front end, i used BackboneJS and BoilerPlate to make this frontEnd happen. this project is openSource and can be download from Github.",
+        "href": "http://lyndasub.ir"
+    },
+    {
+        "name": "[website] Saeed Kahrobaee official webpage - 2012",
         "picture": [
             {
                 "big": "images/projectspic/kahrobaee-ir/home-big.jpg",
