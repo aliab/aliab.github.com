@@ -5,6 +5,9 @@
 
 body{
 	background-color:#fff;	
+	background-image:url(images/bg.jpg);
+	background-position:top center;
+	background-size:cover;
 	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
@@ -78,7 +81,7 @@ div#right-col{
 	margin-left:253px;
 	height:500px;
 	padding-top:40px;
-	overflow:hidden;	
+	overflow:hidden;
 }
 
 h4{
