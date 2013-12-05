@@ -1,178 +1,185 @@
-﻿[
-    {
-        "name": "[website] Sata Customer Panel - 2013",
-        "picture": [
-            {
-                "big": "images/projectspic/sata/01.jpg",
-                "small": "images/projectspic/sata/01-small.jpg",
-                "desc": "Search Panel"
-            },
-            {
-                "big": "images/projectspic/sata/02.jpg",
-                "small": "images/projectspic/sata/02-small.jpg",
-                "desc": "Specific Detail when Products open"
-            },
-            {
-                "big": "images/projectspic/sata/03.jpg",
-                "small": "images/projectspic/sata/03-small.jpg",
-                "desc": "Send File to Marketing Department"
-            },
-            {
-                "big": "images/projectspic/sata/05.jpg",
-                "small": "images/projectspic/sata/05-small.jpg",
-                "desc": "Product when Selected to Purchase in Database Section"
-            }
-        ],
-        "description": "Sata Inc. is a company that want to organise and manage House Data in Mashhad. i was UI/UX designer in this project.",
-        "href": "http://sata-co.ir"
-    },
-    {
-        "name": "[website] Persian Google Chrome Frame - 2013",
-        "picture": [],
-        "description": "Google Chrome Frame, is one of the best known Plug-in's for Internet Explorer that enable cutting edge features on it. i made persian web page to introduce and deliver download link of this awesome plug-in for persian's all around the planet.",
-        "href": "http://chromeframe.ir/"
-    },
-    {
-        "name": "[website] Saeed Kahrobaee official webpage - 2012",
-        "picture": [
-            {
-                "big": "images/projectspic/kahrobaee-ir/home-big.jpg",
-                "small": "images/projectspic/kahrobaee-ir/home-small.jpg",
-                "desc": "Home Page of Kahrobaee.ir"
-            }
-        ],
-        "description": "saeed kahrobaee is a phD student of Materials Engineering and lecturer at sadjad university of mashhad, iran. He wants me to convert his PSD designed website into an html living webpage. at this project i use a lot of JSON data managment idea and site is purely at the front-end.",
-        "href": "http://kahrobaee.ir"
-    },
-    {
-        "name": "[iOS] dastmozd karshenas - 2012",
-        "picture": [],
-        "description": "this application calculate the Judicial Expert cost for analysing. because of what customer wants, application made on top of iOS platform and published only for their internal organization uses.",
-        "href": "#"
-    },
-    {
-        "name": "[website] Media Literacy - 2011",
-        "picture": [],
-        "description": "medialiteracy is a social group that work on media literacy and media information and teach the way's of talking by media. i use wordpress a CMS and i developed some custom wordpress plug-in base on need's, i also make banner pattern for they to make banner and graphics faster, i also installed and configure wiki system for them.",
-        "href": "http://medialiteracy.ir/",
-        "tag": "photoshop,css,wordpress"
-    },
-    {
-        "name": "[iOS, Android] ziarat ashura - 2011",
-        "picture": [],
-        "description": "this application provide easy access to text and audio of ziarat e ashura, with smooth scroll and easy ui design. i made this application on top of ios and android platform, with Phonegap framework and ExtJS sencha Touch. after a year, base on analytic's report, this app installed on more than +60000 android and ios devices. here is a link to <a href=\"http://cafebazaar.ir/app/com.onemobs.ziarateashura/\">cafebazzar</a>.",
-        "href": "#"
-    },
-    {
-        "name": "[iOS, Android] ahd doa - 2011",
-        "picture": [],
-        "description": "this application provide easy access to text and audio of ahd doa, with smooth scroll and easy ui design. i made this application on top of ios and android platform, with Phonegap framework and ExtJS sencha Touch. after a year, base on analytic's report, this app installed on more than +15000 android and ios devices. here is a link to <a href=\"http://cafebazaar.ir/app/com.onemobs.doaahd/?l=fa\">cafebazzar</a>.",
-        "href": "#"
-    },
-    {
-        "name": "[iOS, Android] Mashhad Subway - 2011",
-        "picture": [
-            {
-                "big": "images/projectspic/03/home-big.jpg",
-                "small": "images/projectspic/03/home-small.jpg",
-                "desc": "Home Page of application show the nearest time of favorite station"
-            }
-        ],
-        "description": "i developed multi-platofrm iOS and Android app, called metro mashhad, this app helps people who use subway system to catch the train at the right time. published at iTunes app store and android bazaar (not official android market for iranian's)",
-        "href": "#"
-    },
-    {
-        "name": "[website] Bezang - 2009",
-        "picture": [
-            {
-                "big": "images/projectspic/bezang-ir/home-big.jpg",
-                "small": "images/projectspic/bezang-ir/home-small.jpg",
-                "desc": "Home Page of website"
-            }
-        ],
-        "description": "Bezang.ir is service for selling online Daya VOIP account and iTunes gift card over the internet easily and fast.I use html/css and php to make this things happen on the web.",
-        "href": "http://bezang.ir/",
-        "tag": "photoshop,css,html,php"
-    },
-    {
-        "name": "[website] Asan Card - 2009",
-        "picture": [
-            {
-                "big": "images/projectspic/asancard/home-big.jpg",
-                "small": "images/projectspic/asancard/home-small.jpg",
-                "desc": "Home Page of website"
-            }
-        ],
-        "description": "Asancard.com provide easy access to visa gift card and iTunes gift card. i designed the webpage and coonvert it to html/css and made an aecure backend for managing digital card's and connect the webpage to online paying system.",
-        "href": "http://asancard.com/",
-        "tag": "photoshop,css,html,php"
-    },
-    {
-        "name": "[CD Cataluge] Future City - 2009",
-        "picture": [
-            {
-                "big": "images/projectspic/futurecity/01-big.jpg",
-                "small": "images/projectspic/futurecity/01-small.jpg",
-                "desc": "entery page"
-            },
-            {
-                "big": "images/projectspic/futurecity/02-big.jpg",
-                "small": "images/projectspic/futurecity/02-small.jpg",
-                "desc": "Gallery page"
-            },
-            {
-                "big": "images/projectspic/futurecity/03-big.jpg",
-                "small": "images/projectspic/futurecity/03-small.jpg",
-                "desc": "About page"
-            }
-        ],
-        "description": "Future City is a technology park placed at kuhsangi, Mashhad, Iran. they need's a way to introduce their services and goal's. so i decided to make a cd catalouge and provive what they want in it. i use flash and phtoshop in this project.",
-        "href": "#",
-        "tag": "photoshop,flash"
-    },
-    {
-        "name": "[website] 1Devs company - 2008",
-        "picture": [
-            {
-                "big": "images/projectspic/01/home-big.jpg",
-                "small": "images/projectspic/01/home-small.jpg",
-                "desc": "Home Page"
-            },
-            {
-                "big": "images/projectspic/01/register-big.jpg",
-                "small": "images/projectspic/01/register-small.jpg",
-                "desc": "Registration Form"
-            },
-            {
-                "big": "images/projectspic/01/logedin-big.jpg",
-                "small": "images/projectspic/01/logedin-small.jpg",
-                "desc": "when the user loged in"
-            }
-        ],
-        "description": "1Devs is a web developer company placed at Mashhad, Iran<br /> in this project my role was a designer,project needs some social and web app design combined together, so, i decided to make a dashboard with some extera features. ",
-        "href": "http://1devs.com"
-    },
-    {
-        "name": "[website] Paradise Rug - 2008",
-        "picture": [
-            {
-                "big": "images/projectspic/02/home-big.jpg",
-                "small": "images/projectspic/02/home-small.jpg",
-                "desc": "Home Page"
-            },
-            {
-                "big": "images/projectspic/02/gallery-big.jpg",
-                "small": "images/projectspic/02/gallery-small.jpg",
-                "desc": "Gallery Page"
-            }
-        ],
-        "description": "<a href=\"http://paradiserug.com/\">paradiserug.com</a> is a company that sells rug's across different destinations such as Switzerland , Italy , Germany and Virginia in USA. my role in this project was a wordpress developer, i made a completly new fell of wordpress, from the backend, administrator, can easily add item and item's attribute.",
-        "href": "http://paradiserug.com/"
-    },
-    {
-        "name": "[website] mana choob - 2006",
-        "picture": [],
-        "description": "Mana Choob is a company that work industrially on wood's design, they need's a web site on top of wordpress platform, with custom post's and custom template that made from scratch, and special image gallery.",
-        "href": "#"
-    }
+[
+  {
+    "name": "[Smart TV] kiosk Smart Tv App - 2013",
+    "picture": [],
+    "description": "Kiosk, an RSS news reader application that bring all news across the web into your android or iOS device, now ported into your LG smart TV app.",
+    "href": "#",
+    "technologies": "html5,CSS3,javascript,backbonejs,LG SmartTV SDK"
+  },
+  {
+    "name": "[website] Sata Customer Panel - 2013",
+    "picture": [
+      {
+        "big": "images/projectspic/sata/01.jpg",
+        "small": "images/projectspic/sata/01-small.jpg",
+        "desc": "Search Panel"
+      },
+      {
+        "big": "images/projectspic/sata/02.jpg",
+        "small": "images/projectspic/sata/02-small.jpg",
+        "desc": "Specific Detail when Products open"
+      },
+      {
+        "big": "images/projectspic/sata/03.jpg",
+        "small": "images/projectspic/sata/03-small.jpg",
+        "desc": "Send File to Marketing Department"
+      },
+      {
+        "big": "images/projectspic/sata/05.jpg",
+        "small": "images/projectspic/sata/05-small.jpg",
+        "desc": "Product when Selected to Purchase in Database Section"
+      }
+    ],
+    "description": "Sata Inc. is a company that want to organise and manage House Data in Mashhad. i was UI/UX designer in this project.",
+    "href": "http://sata-co.ir"
+  },
+  {
+    "name": "[website] Persian Google Chrome Frame - 2013",
+    "picture": [],
+    "description": "Google Chrome Frame, is one of the best known Plug-in's for Internet Explorer that enable cutting edge features on it. i made persian web page to introduce and deliver download link of this awesome plug-in for persian's all around the planet.",
+    "href": "http://chromeframe.ir/"
+  },
+  {
+    "name": "[website] Saeed Kahrobaee official webpage - 2012",
+    "picture": [
+      {
+        "big": "images/projectspic/kahrobaee-ir/home-big.jpg",
+        "small": "images/projectspic/kahrobaee-ir/home-small.jpg",
+        "desc": "Home Page of Kahrobaee.ir"
+      }
+    ],
+    "description": "saeed kahrobaee is a phD student of Materials Engineering and lecturer at sadjad university of mashhad, iran. He wants me to convert his PSD designed website into an html living webpage. at this project i use a lot of JSON data managment idea and site is purely at the front-end.",
+    "href": "http://kahrobaee.ir"
+  },
+  {
+    "name": "[iOS] dastmozd karshenas - 2012",
+    "picture": [],
+    "description": "this application calculate the Judicial Expert cost for analysing. because of what customer wants, application made on top of iOS platform and published only for their internal organization uses.",
+    "href": "#"
+  },
+  {
+    "name": "[website] Media Literacy - 2011",
+    "picture": [],
+    "description": "medialiteracy is a social group that work on media literacy and media information and teach the way's of talking by media. i use wordpress a CMS and i developed some custom wordpress plug-in base on need's, i also make banner pattern for they to make banner and graphics faster, i also installed and configure wiki system for them.",
+    "href": "http://medialiteracy.ir/",
+    "tag": "photoshop,css,wordpress"
+  },
+  {
+    "name": "[iOS, Android] ziarat ashura - 2011",
+    "picture": [],
+    "description": "this application provide easy access to text and audio of ziarat e ashura, with smooth scroll and easy ui design. i made this application on top of ios and android platform, with Phonegap framework and ExtJS sencha Touch. after a year, base on analytic's report, this app installed on more than +60000 android and ios devices. here is a link to <a href=\"http://cafebazaar.ir/app/com.onemobs.ziarateashura/\">cafebazzar</a>.",
+    "href": "#"
+  },
+  {
+    "name": "[iOS, Android] ahd doa - 2011",
+    "picture": [],
+    "description": "this application provide easy access to text and audio of ahd doa, with smooth scroll and easy ui design. i made this application on top of ios and android platform, with Phonegap framework and ExtJS sencha Touch. after a year, base on analytic's report, this app installed on more than +15000 android and ios devices. here is a link to <a href=\"http://cafebazaar.ir/app/com.onemobs.doaahd/?l=fa\">cafebazzar</a>.",
+    "href": "#"
+  },
+  {
+    "name": "[iOS, Android] Mashhad Subway - 2011",
+    "picture": [
+      {
+        "big": "images/projectspic/03/home-big.jpg",
+        "small": "images/projectspic/03/home-small.jpg",
+        "desc": "Home Page of application show the nearest time of favorite station"
+      }
+    ],
+    "description": "i developed multi-platofrm iOS and Android app, called metro mashhad, this app helps people who use subway system to catch the train at the right time. published at iTunes app store and android bazaar (not official android market for iranian's)",
+    "href": "#"
+  },
+  {
+    "name": "[website] Bezang - 2009",
+    "picture": [
+      {
+        "big": "images/projectspic/bezang-ir/home-big.jpg",
+        "small": "images/projectspic/bezang-ir/home-small.jpg",
+        "desc": "Home Page of website"
+      }
+    ],
+    "description": "Bezang.ir is service for selling online Daya VOIP account and iTunes gift card over the internet easily and fast.I use html/css and php to make this things happen on the web.",
+    "href": "http://bezang.ir/",
+    "tag": "photoshop,css,html,php"
+  },
+  {
+    "name": "[website] Asan Card - 2009",
+    "picture": [
+      {
+        "big": "images/projectspic/asancard/home-big.jpg",
+        "small": "images/projectspic/asancard/home-small.jpg",
+        "desc": "Home Page of website"
+      }
+    ],
+    "description": "Asancard.com provide easy access to visa gift card and iTunes gift card. i designed the webpage and coonvert it to html/css and made an aecure backend for managing digital card's and connect the webpage to online paying system.",
+    "href": "http://asancard.com/",
+    "tag": "photoshop,css,html,php"
+  },
+  {
+    "name": "[CD Cataluge] Future City - 2009",
+    "picture": [
+      {
+        "big": "images/projectspic/futurecity/01-big.jpg",
+        "small": "images/projectspic/futurecity/01-small.jpg",
+        "desc": "entery page"
+      },
+      {
+        "big": "images/projectspic/futurecity/02-big.jpg",
+        "small": "images/projectspic/futurecity/02-small.jpg",
+        "desc": "Gallery page"
+      },
+      {
+        "big": "images/projectspic/futurecity/03-big.jpg",
+        "small": "images/projectspic/futurecity/03-small.jpg",
+        "desc": "About page"
+      }
+    ],
+    "description": "Future City is a technology park placed at kuhsangi, Mashhad, Iran. they need's a way to introduce their services and goal's. so i decided to make a cd catalouge and provive what they want in it. i use flash and phtoshop in this project.",
+    "href": "#",
+    "tag": "photoshop,flash"
+  },
+  {
+    "name": "[website] 1Devs company - 2008",
+    "picture": [
+      {
+        "big": "images/projectspic/01/home-big.jpg",
+        "small": "images/projectspic/01/home-small.jpg",
+        "desc": "Home Page"
+      },
+      {
+        "big": "images/projectspic/01/register-big.jpg",
+        "small": "images/projectspic/01/register-small.jpg",
+        "desc": "Registration Form"
+      },
+      {
+        "big": "images/projectspic/01/logedin-big.jpg",
+        "small": "images/projectspic/01/logedin-small.jpg",
+        "desc": "when the user loged in"
+      }
+    ],
+    "description": "1Devs is a web developer company placed at Mashhad, Iran<br /> in this project my role was a designer,project needs some social and web app design combined together, so, i decided to make a dashboard with some extera features.",
+    "href": "http://1devs.com"
+  },
+  {
+    "name": "[website] Paradise Rug - 2008",
+    "picture": [
+      {
+        "big": "images/projectspic/02/home-big.jpg",
+        "small": "images/projectspic/02/home-small.jpg",
+        "desc": "Home Page"
+      },
+      {
+        "big": "images/projectspic/02/gallery-big.jpg",
+        "small": "images/projectspic/02/gallery-small.jpg",
+        "desc": "Gallery Page"
+      }
+    ],
+    "description": "<a href=\"http://paradiserug.com/\">paradiserug.com</a> is a company that sells rug's across different destinations such as Switzerland , Italy , Germany and Virginia in USA. my role in this project was a wordpress developer, i made a completly new fell of wordpress, from the backend, administrator, can easily add item and item's attribute.",
+    "href": "http://paradiserug.com/"
+  },
+  {
+    "name": "[website] mana choob - 2006",
+    "picture": [],
+    "description": "Mana Choob is a company that work industrially on wood's design, they need's a web site on top of wordpress platform, with custom post's and custom template that made from scratch, and special image gallery.",
+    "href": "#"
+  }
 ]
