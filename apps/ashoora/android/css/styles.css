@@ -102,7 +102,7 @@ h3 { font-size:30px; }
 .features { clear:both; padding:50px 0 20px; }
 .features h3{ font-size:22px; text-align:right;direction: rtl; font-weight:300;line-height: 32px; }
  
-.featu  { margin:60px 0; }
+.featu  { margin:60px 0;margin-left: auto !important;margin-right: auto !important;width: 100% !important; }
 .featu:hover   { cursor:pointer; }
 .featu h1 { text-align:center; margin-top:30px ; font-size:16px; text-transform:none; color:#808080;  }
 
